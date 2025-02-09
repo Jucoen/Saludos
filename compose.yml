@@ -1,0 +1,6 @@
+services:
+  php:
+    image: jumice93/calculadora:v1
+    container_name: contenedorMiApp
+    ports:
+      - "8080:80"
