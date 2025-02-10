@@ -1,5 +1,5 @@
 <?php
- require_once __DIR__ . '/./src/Saludo.php';
+ require_once __DIR__ . '/./src/saludo.php';
  use HolaMundoMultilenguaje\Saludo;
  $saludo = new Saludo();
  $mensaje = '';
